@@ -20,7 +20,7 @@
 
 <br/>
   
-![DoorLock_Real](https://raw.githubusercontent.com/YiDongYeol/StudyWpf/main/capture/MovieFinderTrailer.JPG)
+![DoorLock_Real](https://raw.githubusercontent.com/YiDongYeol/face_recognition_doorlock/main/capture/DoorLock_Real.jpg)
 ###### 모듈 구조 실제
 
 <br/>

@@ -1,5 +1,5 @@
 # 얼굴인식 도어락 
-[뒤로가기](https://github.com/YiDongYeol/YiDongYeol)
+[뒤로가기](https://github.com/YiDongYeol)
 
 <br/>
 

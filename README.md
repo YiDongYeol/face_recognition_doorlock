@@ -15,7 +15,7 @@
 
 <br/>
   
-![DoorLock](https://github.com/YiDongYeol/StudyWpf/blob/main/capture/MovieFinder.png)
+![DoorLock](https://raw.githubusercontent.com/YiDongYeol/face_recognition_doorlock/main/capture/DoorLock.PNG)
 ###### 모듈 구조
 
 <br/>

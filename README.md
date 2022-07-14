@@ -25,12 +25,12 @@
 
 <br/>
 
-![NaverNewsSearch]()
+![DoorLock_Move]()
 ###### 동작
   
 <br/>
 
-![NaverNewsSearch]()
+![DoorLock_Screen]()
 ###### 카메라 화면
 
 <br/>

@@ -25,7 +25,7 @@
 
 <br/>
 
-![DoorLock_Move]()
+![DoorLock_Move](https://github.com/YiDongYeol/face_recognition_doorlock/blob/main/capture/gpio_work.gif)
 ###### 동작
   
 <br/>

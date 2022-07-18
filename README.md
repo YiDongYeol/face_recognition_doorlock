@@ -30,7 +30,7 @@
   
 <br/>
 
-![DoorLock_Screen_Known](https://github.com/YiDongYeol/face_recognition_doorlock/blob/main/capture/recog_known.gif) [DoorLock_Screen_Unknown]()
+![DoorLock_Screen_Known](https://github.com/YiDongYeol/face_recognition_doorlock/blob/main/capture/recog_known.gif)  [DoorLock_Screen_Unknown](https://github.com/YiDongYeol/face_recognition_doorlock/blob/main/capture/recog_unknown.gif)
 ###### 카메라 화면 (저장된 얼굴, 저장되지 않은 얼굴)
 
 <br/>
